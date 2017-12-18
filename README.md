@@ -20,3 +20,8 @@ Update the package file with:
 ```sh
 apm list --installed --bare < packages.txt
 ```
+
+
+## Next step
+
+Set this to run whenever Atom launches, closes, or a certain amount of time has passed.
